@@ -41,11 +41,11 @@ I'm a frontend developer passionate about creating high-quality web applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemdanmk&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="hemdanmk" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemdan-mk&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="hemdanmk" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemdanmk&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="hemdanmk" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hemdan-mk&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="hemdanmk" />
 </p>
 
 ## 🌱 Currently Learning
